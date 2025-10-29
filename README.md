@@ -25,4 +25,4 @@ Once you have imported the dashboard in you Instana Environment, modify all the 
 
 To export the Workload Automation Instana Dashboard, see: [HCL Workload Automation Instana Dashboard](https://github.com/HCL-TECH-SOFTWARE/hcl-workload-automation-instana-dashboard/blob/master/WA_Instana_Dashboard.json)
 
-For mor information about integrating Workload Automation with Instana, see [Leveraging Instana for advanced observability](https://help.hcl-software.com/workloadautomation/v1026/distr/src_ref/awsrgInstana.html)
+For mor information about integrating Workload Automation with Instana, see [Workload Automation Observability with Instana](https://www.workloadautomation-community.com/blogs/workload-automation-observability-infrastructure-and-metrics-monitoring-with-instana)
